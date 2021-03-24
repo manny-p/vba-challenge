@@ -1,9 +1,9 @@
 {
-    "name": "xvba-excel-app",
+    "name": "vba-challenge",
     "version": "1.0.0",
-    "description": "A XVBA Excel App",
-    "main": "index.js",
-    "author": "LocalSmart",
+    "description": "homework",
+    "main": "index.xlsb",
+    "author": "Manuel Parra",
     "license": "ISC",
     "devDependencies": {
         "@localsmart/xvba-cli": "^1.0.2"
